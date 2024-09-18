@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://baogr.github.io/iKa/sitemap.iKa.gz
